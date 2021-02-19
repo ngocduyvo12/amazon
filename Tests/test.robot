@@ -7,8 +7,10 @@ Test Setup    Begin Web Test
 Test Teardown    End Web Test
 #Suite Teardown    Cleanup Testing Data
 
+
 # Copy/paste the line below into Terminal to execute:
 # robot -d results tests/amazon.robot
+###
 
 *** Variables ***
 ${BROWSER} =  chrome
