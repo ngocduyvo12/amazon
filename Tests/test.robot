@@ -10,7 +10,7 @@ Test Teardown    End Web Test
 
 # Copy/paste the line below into Terminal to execute:
 # robot -d results tests/amazon.robot
-###
+### testing
 
 *** Variables ***
 ${BROWSER} =  chrome
